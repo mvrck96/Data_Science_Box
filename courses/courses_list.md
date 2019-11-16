@@ -10,3 +10,5 @@
 4. [Машинное обучение ФКН ВШЭ](https://www.youtube.com/watch?v=OBG6EUSRC9g&list=PLEqoHzpnmTfDwuwrFHWVHdr1-qJsfqCUX) - опять же ФКН ВШЭ ведет Соколов Е.А. :tv:
 5. [Andrew NG - Machine Learning](https://www.coursera.org/learn/machine-learning) - считается классикой, курс на Coursera :star:
 6. [Специализация Yndex & MIPT](https://www.coursera.org/specializations/machine-learning-data-analysis) - снова классика и снова Coursera :star:
+
+ 
